@@ -31,6 +31,6 @@ Self-driving sensor
 ## Fun fact 😘  
 
 ##  Ask me about 💬
-- <a href="https://www.goldenboy.com/" rel="nofollow"goldenboylife.com
+- www.GoldenBoylife.com/
 - hwidong0102@naver.com
 

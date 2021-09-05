@@ -2,9 +2,10 @@
 Autonomous Driving Developer
 
 ## Hope Development & Interests 
-I've been studying the embedded line, I've done a lot of ATmega, ARM software engineer projects, and I've won three competitions. 
-Currently, in order to become a self-driving developer, it is undergoing K-digital training, and is interested in lane recognition using openCV, Sensor Fusion, and SLAM. 
-The project is under way to advance to the finals of the National Competition hosted by xycar.
+I'am studying the embedded line, I've done a lot of ATmega, ARM software engineer projects, and I've won three competitions. 
+Currently, in order to become a self-driving developer, I am undergoing K-digital training, and  Iam interested in lane recognition using openCV, sensor fusion, and SLAM. 
+
+The project is undergo way to advance to the finals of the National Competition hosted by xycar.
 
 ## Projects🌱
 Smart Refrigerator

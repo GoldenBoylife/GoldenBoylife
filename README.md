@@ -1,7 +1,7 @@
-# Hi There! I'm HwiDong Hwnag!👋� 
+# Hi There! I'm HwiDong Hwnag!👋
 Autonomous Driving Developer
 
-## Hope Development & Interests 
+## Hope Development & Interests 🎨
 I'am studying the embedded line, I've done a lot of ATmega, ARM software engineer projects, and I've won three competitions. 
 Currently, in order to become a self-driving developer, I am undergoing K-digital training, and  Iam interested in lane recognition using openCV, sensor fusion, and SLAM. 
 
@@ -18,9 +18,7 @@ Self-driving sensor
 
 
 
-## Framework 
-
-
+## Framework 💎
 <img src="https://img.shields.io/badge/numpy-3766AB?style=flat-square&logo=numpy&logoColor=red"/>  <img src="https://img.shields.io/badge/ros-3766AB?style=flat-square&logo=ros&logoColor=white"/>  <img src="https://img.shields.io/badge/opencv-3766AB?style=flat-square&logo=opencv&logoColor=blue"/>  <img src="https://img.shields.io/badge/Yolo-3766AB?style=flat-square&logo=Yolo&logoColor=Yellow"/>
   
   
@@ -30,9 +28,9 @@ Self-driving sensor
 ## program skill ⚡
 
 
-## Fun fact  ... 
+## Fun fact 😘  
 
-## 💬 Ask me about ...
-- goldenboylife.com
+##  Ask me about 💬
+- <a href="https://www.goldenboy.com/" rel="nofollow"goldenboylife.com
 - hwidong0102@naver.com
 

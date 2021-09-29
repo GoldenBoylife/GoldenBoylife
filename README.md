@@ -33,6 +33,9 @@ Self-driving sensor
 ## Fun fact 😘  
 
 ##  Ask me about 💬
-- www.GoldenBoylife.com/
 - hwidong0102@naver.com
+
+[![Youtube]](https://www.youtube.com/playlist?list=PLlANf26auoyHYaNgs00B0jBSXhcTmiGZ7)
+[![linkedin]](https://www.linkedin.com/in/hwidong-hwang-b9b139220/)
+[![Blog]]( www.GoldenBoylife.com/)
 

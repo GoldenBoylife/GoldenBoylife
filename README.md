@@ -34,8 +34,13 @@ Self-driving sensor
 
 ##  Ask me about 💬
 - hwidong0102@naver.com
+- www.GoldenBoylife.com/
+
+
+[youtube]: https://img.shields.io/static/v1?style=for-the-badge&color=red&logoColor=ffffff&label=&message=Youtube&logo=youtube
+[linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=329&logoColor=fffdff&label=&message=Linkedin&logo=linkedin&#000000
 
 [![Youtube]](https://www.youtube.com/playlist?list=PLlANf26auoyHYaNgs00B0jBSXhcTmiGZ7)
 [![linkedin]](https://www.linkedin.com/in/hwidong-hwang-b9b139220/)
-[![Blog]]( www.GoldenBoylife.com/)
+
 

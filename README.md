@@ -34,7 +34,8 @@ Self-driving sensor
 
 ##  Ask me about 💬
 - hwidong0102@naver.com
-- www.GoldenBoytech.com/wordpress
+- www.GoldenBoylife.synology.me/wordpress
+
 
 
 [youtube]: https://img.shields.io/static/v1?style=for-the-badge&color=red&logoColor=ffffff&label=&message=Youtube&logo=youtube

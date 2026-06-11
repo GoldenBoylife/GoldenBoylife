@@ -1,47 +1,150 @@
-# Hi There! I'm HwiDong Hwnag!👋
-Autonomous Driving Developer
+# Hi there! I'm Hwidong Hwang 👋
 
-## Hope Development & Interests 🎨
-I'am studying the embedded line, I've done a lot of ATmega, ARM software engineer projects, and I've won three competitions. 
-Currently, in order to become a self-driving developer, I am undergoing K-digital training, and  Iam interested in lane recognition using openCV, sensor fusion, and SLAM. 
+## Robotics Software Engineer | SLAM / Localization
 
-The project is undergo way to advance to the finals of the National Competition hosted by xycar.
+I am a robotics software engineer with experience in outdoor autonomous delivery robots.
+My main work has focused on **3D LiDAR-IMU based SLAM Mapping**, **map drift / mismatch analysis**, **map management tools**, and **robot system integration** in real robot environments.
 
-## Projects🌱
-Smart Refrigerator
-Self-driving lane recognition
-Self-driving sensor
+At my previous company, I worked on outdoor delivery robot projects using **ROS1, C++, PCL, Eigen, LiDAR, IMU, RViz Plugin, Qt5**, and robot operation systems.
+I have also worked on robot-elevator integration using **MQTT, HTTP, Modbus**, and embedded control systems based on **STM32**.
 
+Currently, I am studying and implementing a personal SLAM project called **GoldenSLAM**, based on the structure of FAST-LIO2.
+Through this project, I am improving my understanding of **LiDAR preprocessing, IMU-LiDAR synchronization, deskew, IMU propagation, iEKF update**, and LiDAR-Inertial SLAM frontend architecture.
 
-## Programming Languages 👯
+I document my learning process, implementation notes, and troubleshooting logs on my technical blog:
+👉 **https://goldenboy.co.kr**
 
-<p align="center">
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=c&logoColor=red"/></a> &nbsp </p>
+---
 
+## 🔭 Main Interests
 
-## Tech Stack 🛠
+* 3D LiDAR-Inertial SLAM
+* Map-based Localization
+* Sensor Fusion
+* Outdoor Autonomous Robots
+* ROS / ROS2 Robotics Systems
+* Point Cloud Processing
+* Robot Operation Tools
+* Embedded Robot Control
 
-<p align="center">
-<a href="https://ubuntu.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/2221f840fe3579879bd604dc54688965bd388c979c70152fe7e631de58098770/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d32313231323126636f6c6f723d653935343230266c6f676f436f6c6f723d653935343230266c6162656c3d266d6573736167653d5562756e7475266c6f676f3d7562756e74752623453935343230" alt="Ubuntu" data-canonical-src="https://img.shields.io/static/v1?style=flat-square&amp;labelColor=212121&amp;color=e95420&amp;logoColor=e95420&amp;label=&amp;message=Ubuntu&amp;logo=ubuntu&amp;#E95420" style="max-width: 100%;"></a> &nbsp
-<img src="https://img.shields.io/badge/numpy-3766AB?style=flat-square&logo=numpy&logoColor=red"/>  <img src="https://img.shields.io/badge/ros-3766AB?style=flat-square&logo=ros&logoColor=white"/> 
-<img src="https://img.shields.io/badge/opencv-3766AB?style=flat-square&logo=opencv&logoColor=blue"/>  </a> &nbsp
-<img src="https://img.shields.io/badge/Yolo-3766AB?style=flat-square&logo=Yolo&logoColor=Yellow"/></a> &nbsp
-<img src="https://img.shields.io/badge/Stm32-3766AB?style=flat-square&logo=Stm32&logoColor=blue"/></a> &nbsp
-<img src="https://img.shields.io/badge/Embedded-3766AB?style=flat-square&logo=Embedded&logoColor=Red"/></a> &nbsp
+---
 
-## Fun fact 😘  
+## 🚀 Main Projects
 
-##  Ask me about 💬
-- hwidong0102@naver.com
-- www.GoldenBoylife.synology.me/wordpress
+### GoldenSLAM
 
+Personal LiDAR-Inertial SLAM project based on FAST-LIO2 structure.
 
+* Livox MID360 LiDAR preprocessing
+* IMU-LiDAR MeasureGroup packaging
+* LiDAR frame timestamp management
+* Deskew and IMU propagation study
+* ROS2 based SLAM node structure
+* Development notes on goldenboy.co.kr
 
-[youtube]: https://img.shields.io/static/v1?style=for-the-badge&color=red&logoColor=ffffff&label=&message=Youtube&logo=youtube
-[linkedin]: https://img.shields.io/static/v1?style=for-the-badge&color=329&logoColor=fffdff&label=&message=Linkedin&logo=linkedin&#000000
+Repository:
+https://github.com/GoldenBoylife/GoldenSlam
 
-[![Youtube]](https://www.youtube.com/playlist?list=PLlANf26auoyHYaNgs00B0jBSXhcTmiGZ7)
-[![linkedin]](https://www.linkedin.com/in/hwidong-hwang-b9b139220/)
+---
 
+### Outdoor Delivery Robot SLAM Mapping
 
+Work experience in outdoor autonomous delivery robot mapping.
+
+* 3D LiDAR + IMU based SLAM Mapping
+* Keyframe-based map generation and correction
+* Map drift and mismatch analysis
+* z-axis drift troubleshooting
+* Real robot field test and operation support
+
+---
+
+### RViz Plugin based Map Editor
+
+Map management tool for robot operation.
+
+* Point cloud map visualization
+* Map remove / move / merge / update features
+* RViz Plugin and Qt5 based UI
+* Tool development for field operation and map maintenance
+
+---
+
+### AprilTag based Pose Correction
+
+Localization stability support using marker-based pose correction.
+
+* AprilTag detection based pose correction
+* Camera-to-LiDAR calibration data usage
+* Pose transform and map-frame correction
+* Applied to specific robot operation areas
+
+---
+
+### Robot System Integration
+
+Robot operation and external system integration.
+
+* Robot-elevator integration
+* MQTT / HTTP / Modbus communication
+* STM32 based robot control and sensor board experience
+* UART, RF module, embedded display, power I/O board experience
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-3766AB?style=flat-square\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+
+### Robotics
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square\&logo=ros\&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square\&logo=ros\&logoColor=white)
+![PCL](https://img.shields.io/badge/PCL-3766AB?style=flat-square)
+![Eigen](https://img.shields.io/badge/Eigen-00599C?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+
+### Tools / Environment
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square\&logo=ubuntu\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square\&logo=qt\&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+
+---
+
+## 📌 Experience Keywords
+
+* Outdoor Autonomous Delivery Robot
+* 3D LiDAR / IMU / Odometry
+* SLAM Mapping
+* Map Drift / Map Mismatch
+* Keyframe Correction
+* RViz Plugin
+* Map Editor Tool
+* AprilTag Pose Correction
+* Robot-Elevator Integration
+* MQTT / HTTP / Modbus
+* STM32 Embedded Control
+
+---
+
+## 📝 Technical Blog
+
+I write technical notes about SLAM, robotics software, implementation process, and troubleshooting.
+
+👉 **https://goldenboy.co.kr**
+
+---
+
+## 📫 Contact
+
+* Email: [hwidong0102@naver.com](mailto:hwidong0102@naver.com)
+* GitHub: https://github.com/goldenboylife
+* Blog: https://goldenboy.co.kr
